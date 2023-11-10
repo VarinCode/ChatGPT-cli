@@ -1,1 +1,1 @@
-# ChatGPT-cli
+# chatGPT-cli
