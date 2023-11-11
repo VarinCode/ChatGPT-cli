@@ -20,7 +20,7 @@ _3. เปิดใช้งาน_
 
 _4. ดาวโหลด์ libs_
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 _5. รัน_
